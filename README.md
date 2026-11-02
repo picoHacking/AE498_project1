@@ -1,4 +1,4 @@
-# AE498_project1
+# AE498_project_1
 Solar degradation analysis of NLR SERF-EAST solar power system
 
 For quick setup, download the reduced dataset from this repository, and only run solar_degradation.py to see results.
