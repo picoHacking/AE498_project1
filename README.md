@@ -3,6 +3,8 @@ Solar degradation analysis of NLR SERF-EAST solar power system
 
 For quick setup, download the reduced dataset from this repository, and only run solar_degradation.py to see results.
 
+To run solar_degradation.py and data_reduction.py, be sure to install all requirements listed in the requirements.txt file.
+
 For manual data reduction:
 Get a free API key at https://developer.nlr.gov/ (formerly NREL developer network) and set:
 1. export NSRDB_API_KEY="your_key"
